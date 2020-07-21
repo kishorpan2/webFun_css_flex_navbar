@@ -1,0 +1,26 @@
+.center-box{background-color:darkblue;
+    width:1050px;
+    height: 150px;
+    justify-content: center;
+    display: inline-flex;
+    align-items: center;
+ 
+}
+.center-item{background-color:#F3EFE0;
+    width: 70px;
+    height: 70px;
+    /* justify-content: center;
+    position:relative; */
+}
+.navbar{
+background-color: rgb(56, 88, 175);
+width:1050px;
+height: 250px;
+display:flex;
+justify-content: space-evenly;
+align-items: center;
+}
+li{
+display: inline;
+justify-content: space-evenly;
+}
